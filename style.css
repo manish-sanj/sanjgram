@@ -162,6 +162,7 @@ body{
     background: #fff;
     border: 1px solid #dfdfdf;
     margin-top: 40px;
+    border-radius: 25px;
 }
 
 .info{
